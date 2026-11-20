@@ -19,7 +19,7 @@
   max-height: var(--spacing-lg);
 }
 
-.logo-wrapper-8qt2 {
+.logo-wrapper-kwqc {
   display: contents;
 }
  
@@ -204,11 +204,21 @@
 }
  
 .home-thq-inverted-band-elm.home-thq-inverted-band-elm {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background-color: #ffffff;
 }
  
 .home-thq-container-elm.home-thq-container-elm {
   height: var(--spacing-4xl);
+  align-items: center;
+}
+ 
+.home-container15.home-container15 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
  
 .home-container16.home-container16 {
